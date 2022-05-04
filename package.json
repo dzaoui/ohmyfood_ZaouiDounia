@@ -1,0 +1,15 @@
+{
+  "name": "ohmyfood",
+  "version": "1.0.0",
+  "description": "ohmyfood portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass":"sass --watch ./sass/main.scss:style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ohmyfood-git"
+  },
+  "author": "",
+  "license": "ISC"
+}
