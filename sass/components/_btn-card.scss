@@ -1,0 +1,9 @@
+@use "../utils/mixins";
+@use "../utils/keyframes";
+@use "../utils/maps";
+@use "../utils/variable";
+
+.new {
+    @include btn-card;
+  }
+  

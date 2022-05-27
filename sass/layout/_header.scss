@@ -1,0 +1,8 @@
+@use "../utils/mixins";
+@use "../utils/keyframes";
+@use "../utils/maps";
+@use "../utils/variable";
+
+.main__header h1 {
+  text-align: center;
+}

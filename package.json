@@ -1,15 +1,19 @@
 {
   "name": "ohmyfood",
   "version": "1.0.0",
-  "description": "ohmyfood portfolio",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "sass":"sass --watch ./sass/main.scss:style.css"
+    "sass": "sass --watch ./sass/main.scss:./public/css/style.css"
   },
   "repository": {
     "type": "git",
-    "url": "ohmyfood-git"
+    "url": "git+https://github.com/dzaoui/ohmyfood_ZaouiDounia.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzaoui/ohmyfood_ZaouiDounia/issues"
+  },
+  "homepage": "https://github.com/dzaoui/ohmyfood_ZaouiDounia#readme"
 }

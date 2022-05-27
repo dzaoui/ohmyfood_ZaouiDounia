@@ -1,0 +1,14 @@
+@use "../utils/mixins";
+@use "../utils/keyframes";
+@use "../utils/maps";
+@use "../utils/variable";
+
+.about {
+    @include about;
+    h2 {
+      font-weight: bold;
+    }
+    p {
+      color: #4d4d4d;
+    }
+  }
